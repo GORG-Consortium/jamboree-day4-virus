@@ -1,0 +1,32 @@
+SAG,gtdb_classification
+AM-388-A17,d__Bacteria;p__Desulfobacterota;c__DSM-4660;o__Desulfatiglandales;f__Desulfatiglandaceae;g__NaphS2;s__
+AM-388-B03,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopumilus;s__
+AM-388-C19,d__Bacteria;p__Desulfobacterota;c__DSM-4660;o__Desulfatiglandales;f__;g__;s__
+AM-388-D10,d__Bacteria;p__Marinisomatota;c__UBA8477;o__UBA8477;f__UBA8477;g__JABMPR01;s__JABMPR01 sp016784545
+AM-388-E09,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA12481;g__;s__
+AM-388-G15,d__Bacteria;p__Omnitrophota;c__Koll11;o__JAFGHF01;f__JAFGHF01;g__;s__
+AM-388-I17,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__;g__;s__
+AM-388-I18,d__Bacteria;p__Marinisomatota;c__UBA8477;o__UBA8477;f__UBA8477;g__JABMPR01;s__JABMPR01 sp016784545
+AM-388-J09,d__Archaea;p__Nanoarchaeota;c__Nanoarchaeia;o__Woesearchaeales;f__WJKL01;g__;s__
+AM-388-J14,d__Bacteria;p__Desulfobacterota;c__DSM-4660;o__Desulfatiglandales;f__;g__;s__
+AM-388-L11,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Thermoguttaceae;g__;s__
+AM-388-M18,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__UBA1268;g__QWPN01;s__
+AM-388-M22,d__Bacteria;p__Verrucomicrobiota;c__Lentisphaeria;o__UBA1407;f__Lenti-02;g__;s__
+AM-388-N13,d__Archaea;p__Thermoproteota;c__Bathyarchaeia;o__TCS64;f__TCS64;g__RBG-16-57-9;s__
+AM-388-N16,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Christensenellales;f__CAG-74;g__Limiplasma;s__
+AM-388-O14,d__Bacteria;p__Marinisomatota;c__UBA8477;o__UBA8477;f__UBA8477;g__JABMPR01;s__JABMPR01 sp016784545
+AM-388-O21,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales;f__Thermoguttaceae;g__;s__
+AM-388-P01,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopumilus;s__
+AM-388-P07,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__;g__;s__
+AM-390-A20,d__Bacteria;p__Verrucomicrobiota;c__Lentisphaeria;o__Victivallales;f__Victivallaceae;g__JAHOYW01;s__
+AM-390-B11,d__Bacteria;p__Marinisomatota;c__UBA8477;o__UBA8477;f__UBA8477;g__JABMPR01;s__JABMPR01 sp016784545
+AM-390-C10,d__Bacteria;p__Planctomycetota;c__Phycisphaerae;o__Sedimentisphaerales;f__SG8-4;g__;s__
+AM-390-C16,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopumilus;s__
+AM-390-D16,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopumilus;s__
+AM-390-D21,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopumilus;s__
+AM-390-G02,d__Bacteria;p__Desulfobacterota;c__Desulfobulbia;o__Desulfobulbales;f__Desulfocapsaceae;g__Desulforhopalus;s__
+AM-390-G14,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Acidaminobacteraceae;g__;s__
+AM-390-J04,d__Archaea;p__Thermoproteota;c__Nitrososphaeria;o__Nitrososphaerales;f__Nitrosopumilaceae;g__Nitrosopumilus;s__
+AM-390-K18,d__Bacteria;p__AABM5-125-24;c__AABM5-125-24;o__AABM5-125-24;f__AABM5-125-24;g__JABGPL01;s__
+AM-390-K20,d__Bacteria;p__Marinisomatota;c__UBA8477;o__UBA8477;f__UBA8477;g__JABMPR01;s__
+AM-390-P05,d__Bacteria;p__Latescibacterota;c__Latescibacteria;o__Latescibacterales;f__;g__;s__
