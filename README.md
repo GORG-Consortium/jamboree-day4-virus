@@ -2,7 +2,11 @@
 
 In this tutorial we are focusing on viruses from plates AM-388 and AM-390 from GORG-Dark.  
 
-SAGs were run through several steps and are ready for manual assessment for the presence of viruses or other virus-like elements. 
+Notebooks 1, 2 and 3 will take you through virus searching and characterization for viruses within an indivial SAG.
+
+---
+#### Pre-cooked and analyzed results.
+There are also summary tables for all v1 SAGs from plates AM-388 and AM-390 found in daily-data/day4. For these tables, SAGs were run through several steps and are ready for manual assessment for the presence of viruses or other virus-like elements. 
 
 SAGs have run through the following workflows. These SAGs were processed on Bigelow's server, but below I am providing example commands as they would be run on the JupyterHub.
 
