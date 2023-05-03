@@ -15,7 +15,7 @@ SAGs have run through the following workflows. These SAGs were processed on Bige
 [VirSorter2](https://github.com/jiarong/VirSorter2):
 ```
 source activate /mnt/storage/envs/vs2
-virsorter run -i ${contigs_fasta} --include-groups "dsDNAphage,ssDNA,RNA"
+virsorter run -i ${contigs_fasta} --include-groups "dsDNAphage,ssDNA"
 ```
 
 [VIBRANT](https://github.com/AnantharamanLab/VIBRANT):
@@ -141,7 +141,7 @@ hmm style searches:
 'vogdb_hits'  
 'is_transposon'  
 'amg_flags'  
-**added columns**
+**added columns**  
 'sag': sag id  
 'vogdb_text': extracted vogdb text description  
 'vog_db_vir_protein': identified as a viral protein by columns 'vogdb_categories'  
