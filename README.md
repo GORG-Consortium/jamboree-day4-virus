@@ -2,7 +2,7 @@
 
 In this tutorial we are focusing on viruses from plates AM-388 and AM-390 from GORG-Dark.  
 
-Notebooks 1, 2 and 3 will take you through virus searching and characterization for viruses within an indivial SAG.
+Notebooks 1, 2 and 3 will take you through virus searching for and curation of viruses within an indivial SAG.
 
 ---
 #### Pre-cooked and analyzed results.
