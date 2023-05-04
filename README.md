@@ -4,6 +4,26 @@ In this tutorial we are focusing on viruses from plates AM-388 and AM-390 from G
 
 Notebooks 1, 2 and 3 will take you through virus searching for and curation of viruses within an indivial SAG.
 
+To get started, open a terminal and navigate into your working directory:
+
+```
+cd ~/storage/user_lab/{your name here}
+```
+
+then clone this github repository:  
+
+```
+git clone https://github.com/GORG-Consortium/jamboree-day4-virus.git
+```
+
+and navigate into this directory in terminal:
+
+```
+cd jamboree-day4-virus
+```
+
+Navigate into this directory in the jupyterhub navigation pane on the left side of your screen, select ```1_finding_phages.ipynb``` to open it in a new window in jupyterhub and let's find some viruses.
+
 ---
 #### Pre-cooked and analyzed results.
 There are also summary tables for all v1 SAGs from plates AM-388 and AM-390 found in daily-data/day4. For these tables, SAGs were run through several steps and are ready for manual assessment for the presence of viruses or other virus-like elements. 
